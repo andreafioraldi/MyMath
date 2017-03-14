@@ -1,0 +1,7 @@
+message Inserisci f(x) := 
+fread f
+message Inserisci g(x) := 
+fread g
+func fg f(g(x))
+message Plotting the composed function...\n
+plot fg

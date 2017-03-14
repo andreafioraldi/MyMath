@@ -1,0 +1,5 @@
+message Inserisci una funzione f: 
+fread f
+message f(e) = 
+print f(e)
+read
